@@ -28,7 +28,7 @@
         "str-name-rus": "Переоткрытие **PR**"
     },
     "pr-self-reopened": {
-        "is-active": true,
+        "is-active": false,
         "str-name-rus": "Переоткрытие **PR** автором"
     },
     "pr-review-changes-requested": {
