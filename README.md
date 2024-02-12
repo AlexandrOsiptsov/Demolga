@@ -19,4 +19,6 @@ University schedule service project
 |  Слияние **PR** автором  |  :x:  |
 |  Переоткрытие **PR** автором  |  :x:  |
 |  Модификация **PR**  |  :white_check_mark:  |
+
+
 <a id=repo_config pos=end></a>
