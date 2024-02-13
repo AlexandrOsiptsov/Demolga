@@ -1,6 +1,4 @@
 # Demolga
-University schedule service project
-
 
 ### Текущая конфигурация Telegram-уведомлений
 
